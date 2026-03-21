@@ -132,6 +132,20 @@ Public Class frmSignUp
             Dim exists As Integer = CInt(DataAccess.ExecuteScalar(checkSql,
                 New SqlParameter("@username", username)))
 
+            ' Check for spaces
+            If username.Contains(" ") Then
+                ShowError("Username cannot contain spaces.") : Return
+            End If
+
+            ' Only allow letters, numbers, underscores and dots
+            Dim allowedChars As Boolean = username.All(Function(c)
+                                                           Return Char.IsLetterOrDigit(c) OrElse c = "_"c OrElse c = "."c
+                                                       End Function)
+
+            If Not allowedChars Then
+                ShowError("Username can only contain letters, numbers, _ and .") : Return
+            End If
+
             If exists > 0 Then
                 ShowError("Username already taken. Please choose another.")
                 Return
@@ -169,13 +183,20 @@ Public Class frmSignUp
             ' Log activity
             LogManager.Log(newUserId, "Register", "New " & selectedRole & " account created")
 
-            ' Success — go to login
-            MessageBox.Show("Account created successfully! Please log in.",
-                            "Welcome to Campus Market Hub",
-                            MessageBoxButtons.OK,
-                            MessageBoxIcon.Information)
-
-            GoToLogin()
+            ' After successful registration
+            If selectedRole = "Vendor" Then
+                ' Vendor goes to shop setup first
+                Dim setup As New frmVendorSetup()
+                setup.Show()
+                Me.Hide()
+            Else
+                ' Buyer goes straight to login
+                MessageBox.Show("Account created successfully! Please log in.",
+                    "Welcome to Campus Market Hub",
+                    MessageBoxButtons.OK,
+                    MessageBoxIcon.Information)
+                GoToLogin()
+            End If
 
         Catch ex As Exception
             ShowError("Registration failed: " & ex.Message)

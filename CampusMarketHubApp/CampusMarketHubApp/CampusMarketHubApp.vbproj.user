@@ -7,5 +7,8 @@
     <Compile Update="Forms\Auth\frmSignUp.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Forms\Auth\frmVendorSetup.vb">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>
