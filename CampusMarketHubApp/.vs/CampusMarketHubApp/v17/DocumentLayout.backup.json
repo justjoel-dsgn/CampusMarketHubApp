@@ -3,60 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{82B1322E-BAC8-4AAF-83B0-3CC65DE4BCBD}|CampusMarketHubApp\\CampusMarketHubApp.vbproj|c:\\users\\user\\onedrive\\documents\\vb\\campusmarkethubapp\\campusmarkethubapp\\campusmarkethubapp\\forms\\frmbasedashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{82B1322E-BAC8-4AAF-83B0-3CC65DE4BCBD}|CampusMarketHubApp\\CampusMarketHubApp.vbproj|solutionrelative:campusmarkethubapp\\forms\\frmbasedashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B1322E-BAC8-4AAF-83B0-3CC65DE4BCBD}|CampusMarketHubApp\\CampusMarketHubApp.vbproj|c:\\users\\user\\onedrive\\documents\\vb\\campusmarkethubapp\\campusmarkethubapp\\campusmarkethubapp\\forms\\frmbasedashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{82B1322E-BAC8-4AAF-83B0-3CC65DE4BCBD}|CampusMarketHubApp\\CampusMarketHubApp.vbproj|solutionrelative:campusmarkethubapp\\forms\\frmbasedashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B1322E-BAC8-4AAF-83B0-3CC65DE4BCBD}|CampusMarketHubApp\\CampusMarketHubApp.vbproj|c:\\users\\user\\onedrive\\documents\\vb\\campusmarkethubapp\\campusmarkethubapp\\campusmarkethubapp\\forms\\vendor\\frmvendordashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{82B1322E-BAC8-4AAF-83B0-3CC65DE4BCBD}|CampusMarketHubApp\\CampusMarketHubApp.vbproj|solutionrelative:campusmarkethubapp\\forms\\vendor\\frmvendordashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B1322E-BAC8-4AAF-83B0-3CC65DE4BCBD}|CampusMarketHubApp\\CampusMarketHubApp.vbproj|c:\\users\\user\\onedrive\\documents\\vb\\campusmarkethubapp\\campusmarkethubapp\\campusmarkethubapp\\forms\\vendor\\frmvendordashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{82B1322E-BAC8-4AAF-83B0-3CC65DE4BCBD}|CampusMarketHubApp\\CampusMarketHubApp.vbproj|solutionrelative:campusmarkethubapp\\forms\\vendor\\frmvendordashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{82B1322E-BAC8-4AAF-83B0-3CC65DE4BCBD}|CampusMarketHubApp\\CampusMarketHubApp.vbproj|c:\\users\\user\\onedrive\\documents\\vb\\campusmarkethubapp\\campusmarkethubapp\\campusmarkethubapp\\forms\\auth\\frmvendorsetup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{82B1322E-BAC8-4AAF-83B0-3CC65DE4BCBD}|CampusMarketHubApp\\CampusMarketHubApp.vbproj|solutionrelative:campusmarkethubapp\\forms\\auth\\frmvendorsetup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82B1322E-BAC8-4AAF-83B0-3CC65DE4BCBD}|CampusMarketHubApp\\CampusMarketHubApp.vbproj|c:\\users\\user\\onedrive\\documents\\vb\\campusmarkethubapp\\campusmarkethubapp\\campusmarkethubapp\\forms\\auth\\frmemailverification.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{82B1322E-BAC8-4AAF-83B0-3CC65DE4BCBD}|CampusMarketHubApp\\CampusMarketHubApp.vbproj|solutionrelative:campusmarkethubapp\\forms\\auth\\frmemailverification.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82B1322E-BAC8-4AAF-83B0-3CC65DE4BCBD}|CampusMarketHubApp\\CampusMarketHubApp.vbproj|c:\\users\\user\\onedrive\\documents\\vb\\campusmarkethubapp\\campusmarkethubapp\\campusmarkethubapp\\forms\\auth\\frmresetpassword.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{82B1322E-BAC8-4AAF-83B0-3CC65DE4BCBD}|CampusMarketHubApp\\CampusMarketHubApp.vbproj|solutionrelative:campusmarkethubapp\\forms\\auth\\frmresetpassword.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82B1322E-BAC8-4AAF-83B0-3CC65DE4BCBD}|CampusMarketHubApp\\CampusMarketHubApp.vbproj|c:\\users\\user\\onedrive\\documents\\vb\\campusmarkethubapp\\campusmarkethubapp\\campusmarkethubapp\\forms\\auth\\frmresetpassword.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{82B1322E-BAC8-4AAF-83B0-3CC65DE4BCBD}|CampusMarketHubApp\\CampusMarketHubApp.vbproj|solutionrelative:campusmarkethubapp\\forms\\auth\\frmresetpassword.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82B1322E-BAC8-4AAF-83B0-3CC65DE4BCBD}|CampusMarketHubApp\\CampusMarketHubApp.vbproj|c:\\users\\user\\onedrive\\documents\\vb\\campusmarkethubapp\\campusmarkethubapp\\campusmarkethubapp\\forms\\auth\\frmforgotpassword.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{82B1322E-BAC8-4AAF-83B0-3CC65DE4BCBD}|CampusMarketHubApp\\CampusMarketHubApp.vbproj|solutionrelative:campusmarkethubapp\\forms\\auth\\frmforgotpassword.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82B1322E-BAC8-4AAF-83B0-3CC65DE4BCBD}|CampusMarketHubApp\\CampusMarketHubApp.vbproj|c:\\users\\user\\onedrive\\documents\\vb\\campusmarkethubapp\\campusmarkethubapp\\campusmarkethubapp\\forms\\auth\\frmsignup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{82B1322E-BAC8-4AAF-83B0-3CC65DE4BCBD}|CampusMarketHubApp\\CampusMarketHubApp.vbproj|solutionrelative:campusmarkethubapp\\forms\\auth\\frmsignup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82B1322E-BAC8-4AAF-83B0-3CC65DE4BCBD}|CampusMarketHubApp\\CampusMarketHubApp.vbproj|c:\\users\\user\\onedrive\\documents\\vb\\campusmarkethubapp\\campusmarkethubapp\\campusmarkethubapp\\forms\\auth\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{82B1322E-BAC8-4AAF-83B0-3CC65DE4BCBD}|CampusMarketHubApp\\CampusMarketHubApp.vbproj|solutionrelative:campusmarkethubapp\\forms\\auth\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82B1322E-BAC8-4AAF-83B0-3CC65DE4BCBD}|CampusMarketHubApp\\CampusMarketHubApp.vbproj|c:\\users\\user\\onedrive\\documents\\vb\\campusmarkethubapp\\campusmarkethubapp\\campusmarkethubapp\\forms\\auth\\frmforgotpassword.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{82B1322E-BAC8-4AAF-83B0-3CC65DE4BCBD}|CampusMarketHubApp\\CampusMarketHubApp.vbproj|solutionrelative:campusmarkethubapp\\forms\\auth\\frmforgotpassword.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{82B1322E-BAC8-4AAF-83B0-3CC65DE4BCBD}|CampusMarketHubApp\\CampusMarketHubApp.vbproj|c:\\users\\user\\onedrive\\documents\\vb\\campusmarkethubapp\\campusmarkethubapp\\campusmarkethubapp\\forms\\vendor\\frmvendordashboard.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{82B1322E-BAC8-4AAF-83B0-3CC65DE4BCBD}|CampusMarketHubApp\\CampusMarketHubApp.vbproj|solutionrelative:campusmarkethubapp\\forms\\vendor\\frmvendordashboard.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82B1322E-BAC8-4AAF-83B0-3CC65DE4BCBD}|CampusMarketHubApp\\CampusMarketHubApp.vbproj|c:\\users\\user\\onedrive\\documents\\vb\\campusmarkethubapp\\campusmarkethubapp\\campusmarkethubapp\\forms\\auth\\frmsignup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{82B1322E-BAC8-4AAF-83B0-3CC65DE4BCBD}|CampusMarketHubApp\\CampusMarketHubApp.vbproj|solutionrelative:campusmarkethubapp\\forms\\auth\\frmsignup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82B1322E-BAC8-4AAF-83B0-3CC65DE4BCBD}|CampusMarketHubApp\\CampusMarketHubApp.vbproj|c:\\users\\user\\onedrive\\documents\\vb\\campusmarkethubapp\\campusmarkethubapp\\campusmarkethubapp\\forms\\auth\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{82B1322E-BAC8-4AAF-83B0-3CC65DE4BCBD}|CampusMarketHubApp\\CampusMarketHubApp.vbproj|solutionrelative:campusmarkethubapp\\forms\\auth\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82B1322E-BAC8-4AAF-83B0-3CC65DE4BCBD}|CampusMarketHubApp\\CampusMarketHubApp.vbproj|c:\\users\\user\\onedrive\\documents\\vb\\campusmarkethubapp\\campusmarkethubapp\\campusmarkethubapp\\forms\\auth\\frmemailverification.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{82B1322E-BAC8-4AAF-83B0-3CC65DE4BCBD}|CampusMarketHubApp\\CampusMarketHubApp.vbproj|solutionrelative:campusmarkethubapp\\forms\\auth\\frmemailverification.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82B1322E-BAC8-4AAF-83B0-3CC65DE4BCBD}|CampusMarketHubApp\\CampusMarketHubApp.vbproj|c:\\users\\user\\onedrive\\documents\\vb\\campusmarkethubapp\\campusmarkethubapp\\campusmarkethubapp\\core\\emailservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{82B1322E-BAC8-4AAF-83B0-3CC65DE4BCBD}|CampusMarketHubApp\\CampusMarketHubApp.vbproj|solutionrelative:campusmarkethubapp\\core\\emailservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82B1322E-BAC8-4AAF-83B0-3CC65DE4BCBD}|CampusMarketHubApp\\CampusMarketHubApp.vbproj|c:\\users\\user\\onedrive\\documents\\vb\\campusmarkethubapp\\campusmarkethubapp\\campusmarkethubapp\\models\\pendingregistration.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{82B1322E-BAC8-4AAF-83B0-3CC65DE4BCBD}|CampusMarketHubApp\\CampusMarketHubApp.vbproj|solutionrelative:campusmarkethubapp\\models\\pendingregistration.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82B1322E-BAC8-4AAF-83B0-3CC65DE4BCBD}|CampusMarketHubApp\\CampusMarketHubApp.vbproj|c:\\users\\user\\onedrive\\documents\\vb\\campusmarkethubapp\\campusmarkethubapp\\campusmarkethubapp\\forms\\auth\\frmvendorsetup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{82B1322E-BAC8-4AAF-83B0-3CC65DE4BCBD}|CampusMarketHubApp\\CampusMarketHubApp.vbproj|solutionrelative:campusmarkethubapp\\forms\\auth\\frmvendorsetup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{82B1322E-BAC8-4AAF-83B0-3CC65DE4BCBD}|CampusMarketHubApp\\CampusMarketHubApp.vbproj|c:\\users\\user\\onedrive\\documents\\vb\\campusmarkethubapp\\campusmarkethubapp\\campusmarkethubapp\\forms\\frmbasedashboard.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{82B1322E-BAC8-4AAF-83B0-3CC65DE4BCBD}|CampusMarketHubApp\\CampusMarketHubApp.vbproj|solutionrelative:campusmarkethubapp\\forms\\frmbasedashboard.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,176 +42,109 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmResetPassword.vb",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Forms\\Auth\\frmResetPassword.vb",
-              "RelativeDocumentMoniker": "CampusMarketHubApp\\Forms\\Auth\\frmResetPassword.vb",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Forms\\Auth\\frmResetPassword.vb",
-              "RelativeToolTip": "CampusMarketHubApp\\Forms\\Auth\\frmResetPassword.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-03-21T16:20:01.663Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "frmResetPassword.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Forms\\Auth\\frmResetPassword.vb",
-              "RelativeDocumentMoniker": "CampusMarketHubApp\\Forms\\Auth\\frmResetPassword.vb",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Forms\\Auth\\frmResetPassword.vb [Design]",
-              "RelativeToolTip": "CampusMarketHubApp\\Forms\\Auth\\frmResetPassword.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-03-21T15:58:24.689Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "frmForgotPassword.vb",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Forms\\Auth\\frmForgotPassword.vb",
-              "RelativeDocumentMoniker": "CampusMarketHubApp\\Forms\\Auth\\frmForgotPassword.vb",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Forms\\Auth\\frmForgotPassword.vb",
-              "RelativeToolTip": "CampusMarketHubApp\\Forms\\Auth\\frmForgotPassword.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-03-21T15:56:09.49Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "frmForgotPassword.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Forms\\Auth\\frmForgotPassword.vb",
-              "RelativeDocumentMoniker": "CampusMarketHubApp\\Forms\\Auth\\frmForgotPassword.vb",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Forms\\Auth\\frmForgotPassword.vb [Design]",
-              "RelativeToolTip": "CampusMarketHubApp\\Forms\\Auth\\frmForgotPassword.vb [Design]",
+              "Title": "frmBaseDashboard.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Forms\\frmBaseDashboard.Designer.vb",
+              "RelativeDocumentMoniker": "CampusMarketHubApp\\Forms\\frmBaseDashboard.Designer.vb",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Forms\\frmBaseDashboard.Designer.vb",
+              "RelativeToolTip": "CampusMarketHubApp\\Forms\\frmBaseDashboard.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-03-21T15:39:17.304Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "frmSignUp.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Forms\\Auth\\frmSignUp.vb",
-              "RelativeDocumentMoniker": "CampusMarketHubApp\\Forms\\Auth\\frmSignUp.vb",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Forms\\Auth\\frmSignUp.vb [Design]",
-              "RelativeToolTip": "CampusMarketHubApp\\Forms\\Auth\\frmSignUp.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-03-21T15:36:16.856Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "frmLogin.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Forms\\Auth\\frmLogin.vb",
-              "RelativeDocumentMoniker": "CampusMarketHubApp\\Forms\\Auth\\frmLogin.vb",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Forms\\Auth\\frmLogin.vb [Design]",
-              "RelativeToolTip": "CampusMarketHubApp\\Forms\\Auth\\frmLogin.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-03-21T15:33:28.24Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmEmailVerification.vb",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Forms\\Auth\\frmEmailVerification.vb",
-              "RelativeDocumentMoniker": "CampusMarketHubApp\\Forms\\Auth\\frmEmailVerification.vb",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Forms\\Auth\\frmEmailVerification.vb",
-              "RelativeToolTip": "CampusMarketHubApp\\Forms\\Auth\\frmEmailVerification.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-03-21T15:26:17.36Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "frmEmailVerification.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Forms\\Auth\\frmEmailVerification.vb",
-              "RelativeDocumentMoniker": "CampusMarketHubApp\\Forms\\Auth\\frmEmailVerification.vb",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Forms\\Auth\\frmEmailVerification.vb [Design]",
-              "RelativeToolTip": "CampusMarketHubApp\\Forms\\Auth\\frmEmailVerification.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-03-21T15:09:10.271Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "PendingRegistration.vb",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Models\\PendingRegistration.vb",
-              "RelativeDocumentMoniker": "CampusMarketHubApp\\Models\\PendingRegistration.vb",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Models\\PendingRegistration.vb",
-              "RelativeToolTip": "CampusMarketHubApp\\Models\\PendingRegistration.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-03-21T15:05:26.08Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "EmailService.vb",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Core\\EmailService.vb",
-              "RelativeDocumentMoniker": "CampusMarketHubApp\\Core\\EmailService.vb",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Core\\EmailService.vb",
-              "RelativeToolTip": "CampusMarketHubApp\\Core\\EmailService.vb",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAAIkAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-03-21T14:57:19.004Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frmVendorSetup.vb",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Forms\\Auth\\frmVendorSetup.vb",
-              "RelativeDocumentMoniker": "CampusMarketHubApp\\Forms\\Auth\\frmVendorSetup.vb",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Forms\\Auth\\frmVendorSetup.vb",
-              "RelativeToolTip": "CampusMarketHubApp\\Forms\\Auth\\frmVendorSetup.vb",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAoAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-03-21T14:10:27.87Z",
+              "WhenOpened": "2026-03-22T12:04:13.3Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "frmVendorSetup.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Forms\\Auth\\frmVendorSetup.vb",
-              "RelativeDocumentMoniker": "CampusMarketHubApp\\Forms\\Auth\\frmVendorSetup.vb",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Forms\\Auth\\frmVendorSetup.vb [Design]",
-              "RelativeToolTip": "CampusMarketHubApp\\Forms\\Auth\\frmVendorSetup.vb [Design]",
+              "DocumentIndex": 6,
+              "Title": "frmVendorDashboard.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Forms\\Vendor\\frmVendorDashboard.Designer.vb",
+              "RelativeDocumentMoniker": "CampusMarketHubApp\\Forms\\Vendor\\frmVendorDashboard.Designer.vb",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Forms\\Vendor\\frmVendorDashboard.Designer.vb",
+              "RelativeToolTip": "CampusMarketHubApp\\Forms\\Vendor\\frmVendorDashboard.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-03-21T13:46:45.873Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-03-22T12:03:40.906Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "frmLogin.vb",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Forms\\Auth\\frmLogin.vb",
               "RelativeDocumentMoniker": "CampusMarketHubApp\\Forms\\Auth\\frmLogin.vb",
               "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Forms\\Auth\\frmLogin.vb",
               "RelativeToolTip": "CampusMarketHubApp\\Forms\\Auth\\frmLogin.vb",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA1wCIAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAcwKsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-03-21T12:40:57.628Z"
+              "WhenOpened": "2026-03-22T12:00:42.102Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "frmSignUp.vb",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Forms\\Auth\\frmSignUp.vb",
-              "RelativeDocumentMoniker": "CampusMarketHubApp\\Forms\\Auth\\frmSignUp.vb",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Forms\\Auth\\frmSignUp.vb",
-              "RelativeToolTip": "CampusMarketHubApp\\Forms\\Auth\\frmSignUp.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAALAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "frmVendorSetup.vb",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Forms\\Auth\\frmVendorSetup.vb",
+              "RelativeDocumentMoniker": "CampusMarketHubApp\\Forms\\Auth\\frmVendorSetup.vb",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Forms\\Auth\\frmVendorSetup.vb",
+              "RelativeToolTip": "CampusMarketHubApp\\Forms\\Auth\\frmVendorSetup.vb",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAcwIIAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-03-21T12:40:14.47Z"
+              "WhenOpened": "2026-03-22T11:59:31.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmVendorDashboard.vb",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Forms\\Vendor\\frmVendorDashboard.vb",
+              "RelativeDocumentMoniker": "CampusMarketHubApp\\Forms\\Vendor\\frmVendorDashboard.vb",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Forms\\Vendor\\frmVendorDashboard.vb",
+              "RelativeToolTip": "CampusMarketHubApp\\Forms\\Vendor\\frmVendorDashboard.vb",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-22T11:57:25.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmVendorDashboard.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Forms\\Vendor\\frmVendorDashboard.vb",
+              "RelativeDocumentMoniker": "CampusMarketHubApp\\Forms\\Vendor\\frmVendorDashboard.vb",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Forms\\Vendor\\frmVendorDashboard.vb [Design]",
+              "RelativeToolTip": "CampusMarketHubApp\\Forms\\Vendor\\frmVendorDashboard.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-22T11:57:07.479Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmBaseDashboard.vb",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Forms\\frmBaseDashboard.vb",
+              "RelativeDocumentMoniker": "CampusMarketHubApp\\Forms\\frmBaseDashboard.vb",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Forms\\frmBaseDashboard.vb",
+              "RelativeToolTip": "CampusMarketHubApp\\Forms\\frmBaseDashboard.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-22T11:56:10.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmBaseDashboard.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Forms\\frmBaseDashboard.vb",
+              "RelativeDocumentMoniker": "CampusMarketHubApp\\Forms\\frmBaseDashboard.vb",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Forms\\frmBaseDashboard.vb [Design]",
+              "RelativeToolTip": "CampusMarketHubApp\\Forms\\frmBaseDashboard.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-22T11:40:20.872Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

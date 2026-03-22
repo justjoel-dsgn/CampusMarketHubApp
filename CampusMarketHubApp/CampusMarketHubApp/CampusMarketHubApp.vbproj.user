@@ -19,5 +19,11 @@
     <Compile Update="Forms\Auth\frmVendorSetup.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Forms\frmBaseDashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Vendor\frmVendorDashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>
