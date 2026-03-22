@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{82B1322E-BAC8-4AAF-83B0-3CC65DE4BCBD}|CampusMarketHubApp\\CampusMarketHubApp.vbproj|c:\\users\\user\\onedrive\\documents\\vb\\campusmarkethubapp\\campusmarkethubapp\\campusmarkethubapp\\forms\\vendor\\frmmanageproducts.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{82B1322E-BAC8-4AAF-83B0-3CC65DE4BCBD}|CampusMarketHubApp\\CampusMarketHubApp.vbproj|solutionrelative:campusmarkethubapp\\forms\\vendor\\frmmanageproducts.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{82B1322E-BAC8-4AAF-83B0-3CC65DE4BCBD}|CampusMarketHubApp\\CampusMarketHubApp.vbproj|c:\\users\\user\\onedrive\\documents\\vb\\campusmarkethubapp\\campusmarkethubapp\\campusmarkethubapp\\forms\\vendor\\frmvendordashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{82B1322E-BAC8-4AAF-83B0-3CC65DE4BCBD}|CampusMarketHubApp\\CampusMarketHubApp.vbproj|solutionrelative:campusmarkethubapp\\forms\\vendor\\frmvendordashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B1322E-BAC8-4AAF-83B0-3CC65DE4BCBD}|CampusMarketHubApp\\CampusMarketHubApp.vbproj|c:\\users\\user\\onedrive\\documents\\vb\\campusmarkethubapp\\campusmarkethubapp\\campusmarkethubapp\\forms\\vendor\\frmmanageproducts.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{82B1322E-BAC8-4AAF-83B0-3CC65DE4BCBD}|CampusMarketHubApp\\CampusMarketHubApp.vbproj|solutionrelative:campusmarkethubapp\\forms\\vendor\\frmmanageproducts.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82B1322E-BAC8-4AAF-83B0-3CC65DE4BCBD}|CampusMarketHubApp\\CampusMarketHubApp.vbproj|c:\\users\\user\\onedrive\\documents\\vb\\campusmarkethubapp\\campusmarkethubapp\\campusmarkethubapp\\forms\\vendor\\frmaddproduct.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
@@ -46,11 +54,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "frmManageProducts.vb",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Forms\\Vendor\\frmManageProducts.vb",
+              "RelativeDocumentMoniker": "CampusMarketHubApp\\Forms\\Vendor\\frmManageProducts.vb",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Forms\\Vendor\\frmManageProducts.vb",
+              "RelativeToolTip": "CampusMarketHubApp\\Forms\\Vendor\\frmManageProducts.vb",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAiwNQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-22T13:58:59.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmManageProducts.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Forms\\Vendor\\frmManageProducts.vb",
+              "RelativeDocumentMoniker": "CampusMarketHubApp\\Forms\\Vendor\\frmManageProducts.vb",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Forms\\Vendor\\frmManageProducts.vb [Design]",
+              "RelativeToolTip": "CampusMarketHubApp\\Forms\\Vendor\\frmManageProducts.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-22T13:49:49.932Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "SessionManager.vb",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Core\\SessionManager.vb",
               "RelativeDocumentMoniker": "CampusMarketHubApp\\Core\\SessionManager.vb",
@@ -63,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "frmBaseDashboard.vb",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Forms\\frmBaseDashboard.vb",
               "RelativeDocumentMoniker": "CampusMarketHubApp\\Forms\\frmBaseDashboard.vb",
@@ -76,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "frmBaseDashboard.vb [Design]",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Forms\\frmBaseDashboard.vb",
               "RelativeDocumentMoniker": "CampusMarketHubApp\\Forms\\frmBaseDashboard.vb",
@@ -88,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "frmVendorDashboard.vb [Design]",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Forms\\Vendor\\frmVendorDashboard.vb",
               "RelativeDocumentMoniker": "CampusMarketHubApp\\Forms\\Vendor\\frmVendorDashboard.vb",
@@ -100,20 +133,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "frmVendorDashboard.vb",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Forms\\Vendor\\frmVendorDashboard.vb",
               "RelativeDocumentMoniker": "CampusMarketHubApp\\Forms\\Vendor\\frmVendorDashboard.vb",
               "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Forms\\Vendor\\frmVendorDashboard.vb",
               "RelativeToolTip": "CampusMarketHubApp\\Forms\\Vendor\\frmVendorDashboard.vb",
-              "ViewState": "AgIAADwAAAAAAAAAAAAQwE0AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwEsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2026-03-22T12:49:37.376Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "frmAddProduct.vb",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Forms\\Vendor\\frmAddProduct.vb",
               "RelativeDocumentMoniker": "CampusMarketHubApp\\Forms\\Vendor\\frmAddProduct.vb",
@@ -126,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "frmAddProduct.vb [Design]",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Forms\\Vendor\\frmAddProduct.vb",
               "RelativeDocumentMoniker": "CampusMarketHubApp\\Forms\\Vendor\\frmAddProduct.vb",
@@ -138,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "frmLogin.vb",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Forms\\Auth\\frmLogin.vb",
               "RelativeDocumentMoniker": "CampusMarketHubApp\\Forms\\Auth\\frmLogin.vb",
@@ -151,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "frmVendorSetup.vb",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\VB\\CampusMarketHubApp\\CampusMarketHubApp\\CampusMarketHubApp\\Forms\\Auth\\frmVendorSetup.vb",
               "RelativeDocumentMoniker": "CampusMarketHubApp\\Forms\\Auth\\frmVendorSetup.vb",
