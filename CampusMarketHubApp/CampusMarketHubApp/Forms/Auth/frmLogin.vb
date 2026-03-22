@@ -167,8 +167,9 @@ Public Class frmLogin
                 ' frmAdminDashboard.Show() ← uncomment when built
                 MessageBox.Show("Welcome, Admin!", "Login Successful")
             Case "Vendor"
-                ' frmVendorDashboard.Show() ← uncomment when built
-                MessageBox.Show("Welcome, Vendor!", "Login Successful")
+                Dim vendorDash As New frmVendorDashboard()
+                vendorDash.Show()
+                Me.Hide()
             Case "Buyer"
                 ' frmBuyerDashboard.Show() ← uncomment when built
                 MessageBox.Show("Welcome, Buyer!", "Login Successful")

@@ -125,11 +125,9 @@ Public Class frmVendorSetup
     ' Navigate to Vendor Dashboard
     ' -------------------------------------------------------
     Private Sub GoToDashboard()
-        ' frmVendorDashboard.Show() ← uncomment when built
-        MessageBox.Show("Shop setup complete! Vendor dashboard coming soon.",
-                        "Welcome, " & SessionManager.Username,
-                        MessageBoxButtons.OK,
-                        MessageBoxIcon.Information)
+        Dim dashboard As New frmVendorDashboard()
+        dashboard.Show()
+        Me.Hide()
     End Sub
 
     ' -------------------------------------------------------
